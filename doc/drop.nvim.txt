@@ -1,4 +1,4 @@
-*drop.nvim.txt*          For Neovim >= 0.8.0          Last change: 2023 May 24
+*drop.nvim.txt*          For Neovim >= 0.8.0         Last change: 2023 June 22
 
 ==============================================================================
 Table of Contents                                *drop.nvim-table-of-contents*
